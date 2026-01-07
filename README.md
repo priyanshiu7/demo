@@ -1,3 +1,3 @@
 # demo
 this is my first Git repository.
-author - priyanshi upadhyay
+<br>author - priyanshi upadhyay
